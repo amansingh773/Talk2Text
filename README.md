@@ -7,3 +7,6 @@
 3. Enter your OpenAI API key when prompted
 
 ⚠️ API key is not included for security reasons
+
+
+Live Link :-https://amansingh773.github.io/Talk2Text/
