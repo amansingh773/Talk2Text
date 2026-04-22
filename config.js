@@ -1,0 +1,1 @@
+const API_KEY = prompt("Enter Your Api Key")
